@@ -42,7 +42,9 @@ int main()
 	yazdir(bas_dugum);
 	
 }
-	
+
+
+//omermertkaya
 
 	
 	
