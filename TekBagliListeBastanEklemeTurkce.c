@@ -45,7 +45,7 @@ int main()
 
 
 //omermertkaya
-
+//iyi calismalar
 	
 	
 	
