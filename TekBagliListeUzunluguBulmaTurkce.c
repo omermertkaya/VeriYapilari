@@ -55,7 +55,7 @@ void ekranaYazdirmaylaSay2(struct Dugum *dugum)
 
 
 
-
+//3 farklı yontem ile saydirma işlemi yapılmıştır. Kendinize en yakın yontemi seçerek basdugum ile saydirmayi gerceklestirebilirsiniz.
 
 int main()
 {
